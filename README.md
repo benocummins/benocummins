@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benocummins
-- 👀 I’m interested in Open Source projects
-- 🌱 I’m currently working on my JavaScript and Python 
-- 💞️ I’m looking to collaborate on anything Open Source (FTW)
+- 👀 I’m interested in Open Source projects and currently looking for work!
+- 🌱 I’m currently working mainly on front-end development (HTML/CSS/JS) but also dabbling with some Python on the side 
+- 💞️ I’m looking to collaborate on anything Open Source
 - 📫 How to reach me - benocummins@protonmail.com
 
 <!---
