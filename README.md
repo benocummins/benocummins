@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @benocummins
-- 👀 I’m interested in Open Source projects and currently looking for work!
-- 🌱 I’m currently working mainly on front-end development (HTML/CSS/JS) but also dabbling with some Python on the side 
-- 💞️ I’m looking to collaborate on anything Open Source
-- 📫 How to reach me - benocummins@protonmail.com
+## Hey, I'm Jamie
 
-<!---
-benocummins/benocummins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Lead Infrastructure Engineer → DevOps/Platform Engineering  
+15 years enterprise IT | NCP-MCI | AZ-104 in progress
+
+**Stack:** Terraform · Ansible · Docker · GitHub Actions · Azure · PowerShell · Go
+
+**Currently building:**
+- `homelab-dashboard` — Go/Bubbletea TUI for monitoring self-hosted infrastructure
+- `homelab-docker` — Docker Compose stacks for self-hosted services
+
+📎 [LinkedIn](https://linkedin.com/in/benocummins)
