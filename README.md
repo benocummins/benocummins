@@ -19,16 +19,6 @@
 | Networking | UniFi · Zero Trust · VLANs · DNS |
 | Identity | Active Directory · SAML SSO · Entra ID |
 
-## What I'm Building
-
-- 🏗️ [homelab-docker](https://github.com/benocummins/homelab-docker) — 
-Two-host Docker platform with macvlan networking, Traefik reverse proxy, 
-GitOps deployment via Dockhand, and ~15 self-hosted services ![Validate Compose Files](https://github.com/benocummins/homelab-docker/actions/workflows/validate.yml/badge.svg)
-- 🔧 homelab-infrastructure *(coming soon)* — Terraform + Ansible for 
-Azure VM provisioning with GitHub Actions CI/CD
-- 📊 homelab-observability *(coming soon)* — Prometheus · Grafana · 
-Alertmanager stack
-
 ## Background
 
 Enterprise infrastructure at scale — Nutanix HCI virtualization, Rubrik BCDR, SAML SSO implementations, M365/Entra ID 
